@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Amstrad_PPC")(type "KiCad")(uri "${KIPRJMOD}/Amstrad_PPC.kicad_sym")(options "")(descr ""))
+)
